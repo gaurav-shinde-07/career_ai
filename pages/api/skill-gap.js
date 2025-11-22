@@ -72,10 +72,10 @@ export default function handler(req, res) {
       isCustomRole: false,
       recommendations,
       suggestedLearningOrder: [
-        "1. Cover missing skills first.",
-        "2. Deepen matched skills with intermediate projects.",
-        "3. Build 1–2 major portfolio projects.",
-        "4. Prepare interview patterns & system design.",
+        " Cover missing skills first.",
+        " Deepen matched skills with intermediate projects.",
+        " Build 1–2 major portfolio projects.",
+        " Prepare interview patterns & system design.",
       ],
     });
   } catch (err) {
