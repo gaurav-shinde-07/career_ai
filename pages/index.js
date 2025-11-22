@@ -98,7 +98,7 @@ export default function Home() {
         <header className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
           <div>
             <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight">
-              CodeAtRandom CareerPath
+             CareerPath.AI
             </h1>
             <p className="text-sm text-slate-400 mt-1">
               Skill-gap analysis, roadmap & tech news in one minimal dashboard.
