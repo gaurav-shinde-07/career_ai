@@ -1,9 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/api/news": "pages/api/news.js",
-  "/api/skill-gap": "pages/api/skill-gap.js",
-  "/api/roadmap": "pages/api/roadmap.js"
-}
