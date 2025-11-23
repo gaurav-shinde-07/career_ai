@@ -106,7 +106,7 @@ export default function Home() {
           </div>
           <span className="inline-flex items-center gap-2 rounded-full border border-slate-700 bg-slate-900/70 px-3 py-1 text-xs text-slate-300">
             <span className="inline-block h-2 w-2 rounded-full bg-emerald-400" />
-            Full Stack Demo • Next.js + Vercel
+            Full Stack Application - CareerPath_AI
           </span>
         </header>
 
@@ -211,7 +211,7 @@ export default function Home() {
                 {skillGapResult.isCustomRole && (
                   <div className="rounded-lg bg-amber-500/10 border border-amber-500/40 px-3 py-2 text-xs text-amber-200">
                     ⚠️ <strong>{skillGapResult.targetRole}</strong> is not a predefined role.
-                    Recommendations are based on real industry trends — review job descriptions for accurate required skills.
+                    Recommendations are based on real industry trends — review our job descriptions for accurate required skills.
                   </div>
                 )}
 
